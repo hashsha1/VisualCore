@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://intsystems.xyz/visualcore/images/favicon.png" alt="INTSYSTEMS Logo" width="80" />
+  <img src="vc.png" alt="INTSYSTEMS Logo" width="80" />
   
   # INTSYSTEMS | Visual Core
   
