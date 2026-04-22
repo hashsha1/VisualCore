@@ -11,7 +11,7 @@
   <br />
   
   <a href="https://intsystems.xyz/visualcore/">
-    <img src="app-preview.png" alt="Visual Core Interface" width="700" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 229, 255, 0.2);" />
+    <img src="interface.png" alt="Visual Core Interface" width="700" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 229, 255, 0.2);" />
   </a>
 </div>
 
